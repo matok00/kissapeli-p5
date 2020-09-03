@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Tässä on nyt uutta tekstiä
+lisää uutta tekstiä
+=======
+<<<<<<< HEAD
+Tässä on nyt uutta tekstiä
+lisää uutta tekstiä
+=======
+Tässä on nyt lisää uutta tekstiä
+>>>>>>> e534196... tiedosto.txt luotu
+>>>>>>> b942479... kommentti
